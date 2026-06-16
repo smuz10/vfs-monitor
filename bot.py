@@ -32,4 +32,4 @@ while True:
     result = check()
     if result == "found":
         send("🎉 APPOINTMENT AVAILABLE! Book now:\n" + URL)
-    time.sleep(180)
+time.sleep(60)
